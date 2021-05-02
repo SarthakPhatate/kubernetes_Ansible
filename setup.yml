@@ -1,0 +1,3 @@
+- hosts: master-node
+  roles:
+        - wordpress_mysql_setup
